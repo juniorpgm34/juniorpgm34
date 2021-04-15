@@ -1,8 +1,6 @@
 <h1 align="center">Hello! I'm Pitágoras 🙋‍♂️‍💻</h1>
 <h3 align="center">I'm a Graphic Designer and Web Design.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sprucegabriela&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" /> </p>
-
 - 📝 I have a graphic design portfolio at behance https://www.behance.net/pitagorasgm 
 
 - ⚡ I'am studying graphic design at Cruzeiro do Sul**
