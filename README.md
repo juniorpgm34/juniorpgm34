@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Pitágoras 🙋‍♂️‍💻</h1>
-<h3 align="center">I'm a Graphic Designer and Web Design.</h3>
+<h3 align="center">I'm a Graphic Designer and Front-End Dev.</h3>
 
 - 📝 I have a graphic design portfolio at behance https://www.behance.net/pitagorasgm 
 
