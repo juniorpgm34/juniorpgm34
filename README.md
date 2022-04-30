@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pitagorasgm" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pitagorasgm" height="30" width="40"  color: blue; /></a>
-<a href="https://www.instagram.com/pgmdesigner" target="_blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="pgmdesigner" height="30" width="40"  color: blue; /></a> </p>
+<a href="https://www.instagram.com/pgmdesigner" target="_blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="pgmdesigner" height="40" width="40"  color: blue; /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank"> 
