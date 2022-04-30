@@ -1,3 +1,11 @@
+.contact {
+display: grid;
+grid-auto-flow: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
 <h1 align="center">Hello! I'm Pitágoras 🙋‍♂️‍💻</h1>
 <h3 align="center">I'm a Graphic Designer and Web Design.</h3>
 
@@ -16,9 +24,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="35"/> </a> </p>
 
-.contact {
-display: grid;
-grid-auto-flow: column;
-    align-items: center;
-    justify-content: space-between;
-}
+
