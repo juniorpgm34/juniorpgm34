@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a classe="contact" href="https://www.linkedin.com/in/pitagorasgm" target="_blank"> <img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1651359188~hmac=0da5e8be01effc94d873e89ae342df86" alt="pitagorasgm" height="35" width="35"/>  </a>          
-<a classe="contact" href="https://www.instagram.com/pgmdesigner" target="_blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="pgmdesigner" height="35" width="35" />  </a> </p>
+<a classe="contact" href="https://www.linkedin.com/in/pitagorasgm" target="_blank"> <img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="pitagorasgm" height="35" width="35"/>  </a>          
+<a classe="contact" href="https://www.instagram.com/pgmdesigner" target="_blank"> <img align="center" src="https://www.svgrepo.com/show/111199/instagram.svg" alt="pgmdesigner" height="35" width="35" />  </a> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank"> 
