@@ -3,7 +3,7 @@
 
 - 📝 I have a graphic design portfolio at behance https://www.behance.net/pitagorasgm 
 
-- ⚡ I'am studying graphic design at Cruzeiro do Sul**
+- ⚡ I'am studying graphic design at Cruzeiro do Sul
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
