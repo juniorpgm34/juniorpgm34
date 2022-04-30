@@ -1,11 +1,3 @@
-.contact {
-display: grid;
-grid-auto-flow: column;
-    align-items: center;
-    justify-content: space-between;
-}
-
-
 <h1 align="center">Hello! I'm Pitágoras 🙋‍♂️‍💻</h1>
 <h3 align="center">I'm a Graphic Designer and Web Design.</h3>
 
