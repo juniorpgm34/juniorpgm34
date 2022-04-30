@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a class="contact" href="https://www.linkedin.com/in/pitagorasgm" target="_blank"> <img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="pitagorasgm" height="35" width="35" margin-right="20"/>  </a>          
+<a class="contact" href="https://www.linkedin.com/in/pitagorasgm" target="_blank"> <img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="pitagorasgm" height="35" width="35" margin-right="20"/>  </a>          
 <a class="contact" href="https://www.instagram.com/pgmdesigner" target="_blank"> <img align="center" src="https://www.svgrepo.com/show/111199/instagram.svg" alt="pgmdesigner" height="35" width="35" margin-right="20"/>  </a> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
