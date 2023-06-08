@@ -36,7 +36,9 @@ ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
 </p>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
 
 <div display="flex">
 <img src="https://github-readme-stats.vercel.app/api?username=juniorpgm34&theme=github_dark_dimmed&show_icons=true"  height="180" /> 
