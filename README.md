@@ -36,8 +36,8 @@ height="40" />
 <br>
 
 <h2 align="center">Onde me encontrar 
-<img src="https://media.giphy.com/media/iurMjrejMG9tMPpUEc/giphy.gif"
-height="60" />     
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU4OTk5Zjg2NjI1Njg5ZDFkMmJlNjk3ZGRjNjljMWE1YmM4ODI5ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/tCqoAaF8KUmhuzADVp/giphy.gif"
+height="50" />     
 </h2>
 
 <p align="center">
