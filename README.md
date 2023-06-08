@@ -52,7 +52,7 @@ ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react
 
 <br>
 
-<div display="flex">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=juniorpgm34&theme=github_dark_dimmed&show_icons=true"  height="180" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorpgm34&layout=compact&theme=github_dark_dimmed" height="180" />
 </div>
