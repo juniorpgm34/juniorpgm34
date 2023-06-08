@@ -4,7 +4,7 @@
 - 📝 I have a graphic design portfolio at behance https://www.behance.net/pitagorasgm 
 
 - 🌱 Atualmente estou aprendendo : 
-- ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="typescript" width="40" height="35" />
+ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="typescript" width="40" height="35" />
 
 - 👯 Estou procurando colaborar em ...
 
