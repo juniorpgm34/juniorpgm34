@@ -38,7 +38,7 @@ ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react
 
 <br>
 
-<h2 align="center">My Github Stats</h2>
+<h2 align="center">Meu Github Stats</h2>
 
 <br>
 
