@@ -6,25 +6,10 @@
 
 
 
-<h1 align="center">Hello! I'm Pitágoras 🙋‍♂️‍💻</h1>
-<h3 align="center">I'm a Graphic Designer and Front-End Dev.</h3>
-
-- 📝 I have a graphic design portfolio at behance https://www.behance.net/pitagorasgm 
+<h2 align="center">Ola! Eu sou o Pitágoras Mattos, programador Front-End e Designer Gráfico </h2>
 
 - 🌱 Atualmente estou aprendendo : 
 ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="typescript" width="40" height="35" />
-
-- 👯 Estou procurando colaborar em ...
-
-- 🤔 Estou procurando ajuda com ...
-
-- 💬 Pergunte-me sobre ...
-
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
-
-
 
 <h2 align="center">Tecnologias 
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" 
