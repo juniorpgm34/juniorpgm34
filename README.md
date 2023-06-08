@@ -3,7 +3,19 @@
 
 - 📝 I have a graphic design portfolio at behance https://www.behance.net/pitagorasgm 
 
-- ⚡ I'am studying graphic design at Cruzeiro do Sul
+- 🌱 Atualmente estou aprendendo : ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="typescript" width="40" height="35" />
+
+- 👯 Estou procurando colaborar em ...
+- 
+- 🤔 Estou procurando ajuda com ...
+
+- 💬 Pergunte-me sobre ...
+
+- 📫 Como entrar em contato comigo: ...
+- 😄 Pronomes: ...
+- ⚡ Curiosidade: ...
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
