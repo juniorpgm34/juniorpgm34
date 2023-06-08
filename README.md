@@ -3,13 +3,12 @@
  width="800" height="500"   />
  </div>
 
-
-
-
 <h2 align="center">Ola! Eu sou o Pitágoras Mattos, programador Front-End e Designer Gráfico </h2>
 
 - 🌱 Atualmente estou aprendendo : 
 ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="typescript" width="40" height="35" />
+
+<br>
 
 <h2 align="center">Tecnologias 
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" 
