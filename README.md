@@ -55,7 +55,10 @@ height="50" />
 
 <br>
 
-<h2 align="center">Meu Github Stats</h2>
+<h2 align="center">Meu Github Stats
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRhMThlMTVkMTA4MTY0ODBiMzEzMjc1YWMyYWEyMDQ2Mjk4YjU4NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/RVWSqOsgDAq0W3051o/giphy.gif"
+height="50" />     
+</h2>
 
 <br>
 
