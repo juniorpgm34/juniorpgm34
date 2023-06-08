@@ -19,7 +19,7 @@ ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react
 
 
 <h2 align="center">Tecnologias 
-<img src="https://media.giphy.com/media/8m4gPv1UFz1jmiCtKd/giphy.gif" 
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" 
 height="40" /> 
 </h2>
 <p align="center">
