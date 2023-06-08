@@ -19,4 +19,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="typescript" width="40" height="35" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=juniorpgm34&theme=github_dark_dimmed&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorpgm34&layout=compact&theme=github_dark_dimmed" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=juniorpgm34&theme=github_dark_dimmed&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorpgm34&layout=compact&theme=github_dark_dimmed" height="190" />
