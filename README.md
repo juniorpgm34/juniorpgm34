@@ -17,6 +17,19 @@ ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react
 - ⚡ Curiosidade: ...
 
 
+<h2 align="center">Onde me encontrar <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+
+<a href="mailto: pitagorasmattos@gmail.com">
+ <img src="https://img.shields.io/badge/-juniorpgm34-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pitagorasmattos@gmail.com"/>
+</a>
+<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
+ <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+</a>
+ <a href="https://twitter.com/ritikhere307">
+ <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+</a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
