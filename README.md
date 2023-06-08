@@ -33,7 +33,10 @@ ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react
 
 <br>
 
-<h2 align="center">Tecnologias <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHB0MTE3OHFmMXN5cXhsOWU2eTNpd3V5cHI0dzI1bHh0NmR1eHlwNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" /> </h2>
+<h2 align="center">Tecnologias 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHB0MTE3OHFmMXN5cXhsOWU2eTNpd3V5cHI0dzI1bHh0NmR1eHlwNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" 
+height="50" /> 
+</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
