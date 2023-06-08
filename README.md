@@ -19,4 +19,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="typescript" width="40" height="35" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?juniorpgm34=anuraghazra&theme=github_dark_dimmed&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorpgm34&theme=github_dark_dimmed&show_icons=true)
