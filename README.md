@@ -23,7 +23,7 @@ ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react
 <a class="contact" href="https://www.linkedin.com/in/pitagorasgm" target="_blank"> <img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="pitagorasgm" height="35" width="35" margin-right="20"/>  </a>          
 <a class="contact" href="https://www.instagram.com/pgmdesigner" target="_blank"> <img align="center" src="https://www.svgrepo.com/show/111199/instagram.svg" alt="pgmdesigner" height="35" width="35" margin-right="20"/>  </a> </p>
 
-<h2 align="center">Tecnologias <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Tecnologias</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -35,6 +35,8 @@ ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
 </p>
+
+<br>
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
