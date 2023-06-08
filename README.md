@@ -5,7 +5,7 @@
 
 <h2 align="center">Ola! Eu sou o Pitágoras Mattos, programador Front-End e Designer Gráfico </h2>
 
-Atualmente estou estudando ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="typescript" width="20" height="20" /> mas também ja fiz uns projetos em Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="20" height="20" />
+Atualmente estou estudando ReactJS mas também ja fiz uns projetos em Angular. 
 
 <br>
 
