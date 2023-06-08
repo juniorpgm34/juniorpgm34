@@ -35,7 +35,7 @@ height="50" />
 <a href="mailto: pitagorasmattos@gmail.com" target="_blank">
  <img src="https://img.shields.io/badge/-pitagorasmattos-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pitagorasmattos@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/pitagorasgm/" target="_blank">
+<a href="https://www.linkedin.com/in/pitagorasgm/" target="blank">
  <img src="https://img.shields.io/badge/-pitagorasgm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pitagorasgm/"/>
 </a>
 <a href="https://www.facebook.com/pitagorasgmattos">
