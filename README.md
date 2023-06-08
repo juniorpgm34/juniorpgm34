@@ -25,8 +25,6 @@ ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react
 
 <h2 align="center">Tecnologias <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
-<br>
-
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
