@@ -1,11 +1,11 @@
 <div align="center" >
 <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZhZWFmYTBmZWFjYjRmMzEzNWRhMjg3ZGMzNTZhNjBiZGQ2ZTkxZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"
- width="800" height="500"   />
+ width="800" height="500" />
  </div>
 
 <h2 align="center">Ola! Eu sou o Pitágoras Mattos, programador Front-End e Designer Gráfico </h2>
 
-<p align="center"> Atualmente estou estudando ReactJS mas também ja fiz uns projetos em Angular. </p>
+<p align="center">Atualmente estou projetando em ReactJS mas também ja fiz uns projetos em Angular. </p>
 
 <br>
 
