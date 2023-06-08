@@ -22,6 +22,16 @@ ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHB0MTE3OHFmMXN5cXhsOWU2eTNpd3V5cHI0dzI1bHh0NmR1eHlwNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" 
 height="40" /> 
 </h2>
+<p align="center">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+</p>
 
 <br>
 
@@ -39,18 +49,6 @@ height="40" />
 </a>
 </p>
 
-<br>
-
-<p align="center">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-</p>
 
 <br>
 
