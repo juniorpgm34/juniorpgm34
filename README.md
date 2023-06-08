@@ -37,7 +37,7 @@ height="40" />
 
 <h2 align="center">Onde me encontrar 
 <img src="https://media.giphy.com/media/iurMjrejMG9tMPpUEc/giphy.gif"
-height="40" />     
+height="60" />     
 </h2>
 
 <p align="center">
