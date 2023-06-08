@@ -17,16 +17,17 @@ ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react
 - ⚡ Curiosidade: ...
 
 
-<h2 align="center">Onde me encontrar <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">Onde me encontrar </h2>
 
+<p align="center">
 <a href="mailto: pitagorasmattos@gmail.com">
- <img src="https://img.shields.io/badge/-juniorpgm34-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pitagorasmattos@gmail.com"/>
+ <img src="https://img.shields.io/badge/-pitagorasmattos-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pitagorasmattos@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+<a href="https://www.linkedin.com/in/pitagorasgm/">
+ <img src="https://img.shields.io/badge/-pitagorasgm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pitagorasgm/"/>
 </a>
- <a href="https://twitter.com/ritikhere307">
- <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+<a href="https://www.facebook.com/pitagorasgmattos">
+ <img src="	https://img.shields.io/badge/-pitagorasgm-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/pitagorasgmattos"/>
 </a>
 </p>
 
