@@ -27,7 +27,7 @@ ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react
  <img src="https://img.shields.io/badge/-pitagorasgm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pitagorasgm/"/>
 </a>
 <a href="https://www.facebook.com/pitagorasgmattos">
- <img src="	https://img.shields.io/badge/-pitagorasgm-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/pitagorasgmattos"/>
+ <img src="	https://img.shields.io/badge/pitagorasgm-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/pitagorasgmattos"/>
 </a>
 </p>
 
