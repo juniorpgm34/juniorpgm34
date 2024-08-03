@@ -3,9 +3,9 @@
  width="650" height="350" />
  </div>
 
-<h2 align="center">Ola! Eu sou o Pitágoras Mattos, programador Front-End e Designer Gráfico </h2>
+<h2 align="center">Ola! Eu sou o Pitágoras Mattos, programador Front-End</h2>
 
-<p align="center">Atualmente estou projetando em ReactJS mas também ja fiz uns projetos em Angular. </p>
+<p align="center">Atualmente estou cursando Engenharia de Software e estudando a linguagem java. </p>
 
 <br>
 
